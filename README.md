@@ -11,4 +11,6 @@ Send favicon to browser
 - jsonwebtoken
 - pug
 
-# npm i, npm run start
+### 
+- npm i 
+- npm run start
